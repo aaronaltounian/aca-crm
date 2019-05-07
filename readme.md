@@ -22,4 +22,5 @@ Make sure you have a Mlab account and create a datbase for this project. Create 
 
 ## Question
 * What other functionality could we add?
+* Why do we use mlab to search. Why don't we just retrieve all customers and then filter?
 * What is the problem with building our app this way?
